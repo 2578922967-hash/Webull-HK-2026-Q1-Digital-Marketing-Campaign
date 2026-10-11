@@ -77,6 +77,3 @@
 - `阶段二.pdf`：策略与渠道计划
 - `Webull HK Campaign_1+2 汇报(1).pdf`：汇报版材料
 
-## 简历可用描述（英文）
-
-> Designed an end-to-end digital marketing campaign for Webull HK (Q1 2026), translating market insights into a full-funnel strategy across awareness, consideration, conversion, and retention. Built a segmented messaging framework around “Zero Fee + AI Assistant,” defined channel orchestration and engagement mechanics, and established KPI forecasting for reach, share of voice, registration conversion, and funded-user growth.
